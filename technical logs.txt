@@ -1,0 +1,4 @@
+Changes on the scripts to accomodate specific projects and clients needs:
+
+[2020-12-08] 
+ • Pathing: filters by time of the day: Breakfast, Mid Morning and Lunch. We filtered out "others".

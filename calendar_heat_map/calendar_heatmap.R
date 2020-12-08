@@ -15,17 +15,17 @@ df  <-  tibble(
     "days"
   ))
 
-pin <- read_tsv("data/pin.tsv")
+pin_path <- file.choose()
 
+pin <- read_tsv(pin_path)
+pin <- pin %>% rename(hashed_device_id = 2, time_of_day = 7) %>% mutate(Date = as_date(Date), day_period = ifelse(hms(time_of_day) >= hm("06:00") & hms(time_of_day) < hm("09:00"), "Breakfast",ifelse(hms(time_of_day) >= hm("09:00") & hms(time_of_day) < hm("12:00"), "Mid Morning",ifelse(hms(time_of_day) >= hm("12:00") & hms(time_of_day) < hm("14:00"), "Lunch","Other"))))
 
+#summarise the columns -- make specific stuff for each site clear, to be easy to change later
 
-daily_payments <- payments %>% group_by(payment_date) %>% summarise(ValueCol = n()) %>% filter(payment_date < as_date('2020-11-26'))
-#daily_activeness <- hourly_activeness %>% filter(membership_type_id == 120) %>%  group_by(date) %>% summarise(ValueCol = mean(daily_stickness)) %>% ungroup()
+#colocar NA = 0? Talvez a escala fique mais bem distribuída
+visits <- pin %>% filter(day_period != "Other") %>%  group_by(Date) %>% summarise(ValueCol = n_distinct(hashed_device_id))
 
-
-#df <-  df %>% left_join(daily_activeness, by = c("DateCol" = "date"))
-
-df <-  df %>% left_join(daily_payments, by = c("DateCol" = "payment_date")) %>% mutate(ValueCol = as.integer(ValueCol))
+df <-  df %>% left_join(visits, by = c("DateCol" = "Date")) %>% mutate(ValueCol = as.integer(ValueCol))
 
 dfPlot <- df %>% 
   mutate(weekday = lubridate::wday(DateCol, label = T, week_start = 7), # can put week_start = 1 to start week on Monday
@@ -60,9 +60,9 @@ dfPlot %>%
         plot.title = element_text(hjust = 0.5, size = 21, face = "bold",
                                   margin = margin(0,0,0.5,0, unit = "cm"))) +
   scale_fill_gradientn(colours = c("red", "white", "#6b9235"),
-                       values = scales::rescale(c(-1, -0.05, 0, 0.05, 1)),
-                       name = "Trial Payments",
+                       values = scales::rescale(c(-1, -0.08, 0, 0.02, 1)),
+                       name = "Number of Visitors",
                        guide = guide_colorbar(title.position = "top", 
                                               direction = "horizontal")) +
   facet_wrap(~month, nrow = 4, ncol = 3, scales = "free") +
-  labs(title = "Trial Payments Heatmap")
+  labs(title = "Visitors Heatmap")

@@ -1,1 +1,0 @@
-Pathing: 30 min before visiting the stores.
