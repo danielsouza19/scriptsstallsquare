@@ -23,7 +23,7 @@ pin <- pin %>% rename(hashed_device_id = 2, time_of_day = 7) %>% mutate(Date = a
 #summarise the columns -- make specific stuff for each site clear, to be easy to change later
 
 #colocar NA = 0? Talvez a escala fique mais bem distribuída
-visits <- pin %>% filter(day_period != "Other") %>%  group_by(Date) %>% summarise(ValueCol = n_distinct(hashed_device_id))
+visits <- pin %>% filter(day_period == "Lunch") %>%  group_by(Date) %>% summarise(ValueCol = n_distinct(hashed_device_id))
 
 df <-  df %>% left_join(visits, by = c("DateCol" = "Date")) %>% mutate(ValueCol = as.integer(ValueCol))
 

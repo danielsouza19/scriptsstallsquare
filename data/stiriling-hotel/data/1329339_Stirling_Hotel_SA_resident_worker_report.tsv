@@ -1,0 +1,13 @@
+Polygon ID	Device ID	Resident	Worker	CEL Lat	CEL Lng	CEL Country	CEL State	CEL Zip	CEL Census Block ID	CEL Metro	CDL Lat	CDL Lng	CDL Country	CDL State	CDL Zip	CDL Census Block ID	CDL Metro	Commute Distance
+Stirling Hotel SA	32bee9f5a0be6721dd9a7468925768ae5f55ea30	false	true	-34.943001670416365	138.6681593153192	AUS	South Australia	5066	40103101113	Burnside C	-35.00679167041636	138.7179491472677	AUS	South Australia	5152	40102100402	Adelaide Hills DC	5.237661197555253
+Stirling Hotel SA	90baafa938d711c8cd9a21c9d1796ab1fb284da6	unknown	true								-35.007105557416025	138.71811728072242	AUS	South Australia	5152	40102100402	Adelaide Hills DC	
+Stirling Hotel SA	26dda671ff672fa2529d7f78459417bfaa813b76	true	unknown	-35.00701088508088	138.71815389792116	AUS	South Australia	5152	40102100402	Adelaide Hills DC								
+Stirling Hotel SA	e8bb0be1c3a4b12fdc57277696c8e7780ae1be10	true	false	-35.0070490453841	138.7178263711978	AUS	South Australia	5152	40102100402	Adelaide Hills DC	-35.0060610453841	138.71759537306522	AUS	South Australia	5152	40102100418	Adelaide Hills DC	0.06958256729589848
+Stirling Hotel SA	cc1a4ebc1795dc053f81670d17ef0ccce3c6985a	unknown	true								-35.00674481325588	138.7179856572165	AUS	South Australia	5152	40102100402	Adelaide Hills DC	
+Stirling Hotel SA	fc120435e6e7a826a1d446295e7596a95f8f4004	unknown	true								-35.00644394098009	138.71789406250466	AUS	South Australia	5152	40102100402	Adelaide Hills DC	
+Stirling Hotel SA	0fac48b76c82f5f2b9dc56565f6abf3f57582bdd	true	unknown	-35.00645635006851	138.7178142105982	AUS	South Australia	5152	40102100402	Adelaide Hills DC								
+Stirling Hotel SA	4de17c5354b69bc37598ebbf9cba820889d25d7b	true	unknown	-35.00685453686664	138.7183101643884	AUS	South Australia	5152	40102100402	Adelaide Hills DC								
+Stirling Hotel SA	a5e663120e92aec9b7799b2d145c557e52f26a12	unknown	true								-35.006840117669405	138.71773907783933	AUS	South Australia	5152	40102100402	Adelaide Hills DC	
+Stirling Hotel SA	956baa2e0660d8ae861de5a6311ebc9c49588756	unknown	true								-35.00676900941598	138.7180137887764	AUS	South Australia	5152	40102100402	Adelaide Hills DC	
+Stirling Hotel SA	d1f66b1dc2f7b5184f0bdbd9b5e56e890d49a920	false	true			GRC		192 00		Elefsinas	-35.00686163835901	138.71767154866137	AUS	South Australia	5152	40102100402	Adelaide Hills DC	
+Stirling Hotel SA	eb7259e44d4f9bc9d99e9e074785e56ea9a11590	unknown	true								-35.006753400833276	138.71812242738008	AUS	South Australia	5152	40102100402	Adelaide Hills DC	

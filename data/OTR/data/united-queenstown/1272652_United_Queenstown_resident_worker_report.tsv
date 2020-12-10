@@ -1,0 +1,3 @@
+Polygon ID	Device ID	Resident	Worker	CEL Lat	CEL Lng	CEL Country	CEL State	CEL Zip	CEL Census Block ID	CEL Metro	CDL Lat	CDL Lng	CDL Country	CDL State	CDL Zip	CDL Census Block ID	CDL Metro	Commute Distance
+United Queenstown	d7cf4605881fd3773a9daedc18f5a3af8f8fb464	true	false	-34.868242881140205	138.51680420455327	AUS	South Australia	5014	40402110112	Port Adelaide Enfield C	-34.8208308811402	138.64979148605505	AUS	South Australia	5098	40204104028	Salisbury C	8.231074984196635
+United Queenstown	e0a0e081ed4e6ee572496801040c3d0f9fdd483c	true	unknown	-34.86822842454173	138.5175629785856	AUS	South Australia	5014	40402110112	Port Adelaide Enfield C								

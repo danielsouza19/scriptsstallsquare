@@ -1,0 +1,235 @@
+Location	Bucket	Type	Visitor Count	Percentage
+User Drawn Polygon	Total visitors with CEL	CEL Distance	2763	
+User Drawn Polygon	Median distance traveled from CEL	CEL Distance	3.4897431264807346	
+User Drawn Polygon	Lives within 1 mile of location	CEL Distance	339	12.27%
+User Drawn Polygon	Lives between 1 and 2 miles	CEL Distance	521	18.86%
+User Drawn Polygon	Lives between 2 and 3 miles	CEL Distance	380	13.75%
+User Drawn Polygon	Lives between 3 and 5 miles	CEL Distance	403	14.59%
+User Drawn Polygon	Lives between 5 and 10 miles	CEL Distance	578	20.92%
+User Drawn Polygon	Lives between 10 and 25 miles	CEL Distance	350	12.67%
+User Drawn Polygon	Lives between 25 and 50 miles	CEL Distance	55	1.99%
+User Drawn Polygon	Lives between 50 and 100 miles	CEL Distance	16	0.58%
+User Drawn Polygon	Lives >100 miles away	CEL Distance	121	4.38%
+User Drawn Polygon	Total visitors with CDL	CDL Distance	2735	
+User Drawn Polygon	Median distance traveled from CDL	CDL Distance	3.817764098360004	
+User Drawn Polygon	Works within 1 mile of location	CDL Distance	318	11.63%
+User Drawn Polygon	Works between 1 and 2 miles	CDL Distance	456	16.67%
+User Drawn Polygon	Works between 2 and 3 miles	CDL Distance	378	13.82%
+User Drawn Polygon	Works between 3 and 5 miles	CDL Distance	411	15.03%
+User Drawn Polygon	Works between 5 and 10 miles	CDL Distance	686	25.08%
+User Drawn Polygon	Works between 10 and 25 miles	CDL Distance	296	10.82%
+User Drawn Polygon	Works between 25 and 50 miles	CDL Distance	45	1.65%
+User Drawn Polygon	Works between 50 and 100 miles	CDL Distance	18	0.66%
+User Drawn Polygon	Works >100 miles away	CDL Distance	127	4.64%
+User Drawn Polygon	5011	Top CEL Postal2	242	8.76%
+User Drawn Polygon	5023	Top CEL Postal2	226	8.18%
+User Drawn Polygon	5014	Top CEL Postal2	210	7.60%
+User Drawn Polygon	5019	Top CEL Postal2	85	3.08%
+User Drawn Polygon	5013	Top CEL Postal2	84	3.04%
+User Drawn Polygon	5016	Top CEL Postal2	83	3.00%
+User Drawn Polygon	5021	Top CEL Postal2	83	3.00%
+User Drawn Polygon	5022	Top CEL Postal2	83	3.00%
+User Drawn Polygon	5008	Top CEL Postal2	67	2.42%
+User Drawn Polygon	5018	Top CEL Postal2	59	2.14%
+User Drawn Polygon	5015	Top CEL Postal2	54	1.95%
+User Drawn Polygon	5012	Top CEL Postal2	53	1.92%
+User Drawn Polygon	5025	Top CEL Postal2	45	1.63%
+User Drawn Polygon	5007	Top CEL Postal2	44	1.59%
+User Drawn Polygon	5032	Top CEL Postal2	43	1.56%
+User Drawn Polygon	5017	Top CEL Postal2	41	1.48%
+User Drawn Polygon	5108	Top CEL Postal2	41	1.48%
+User Drawn Polygon	5009	Top CEL Postal2	40	1.45%
+User Drawn Polygon	5024	Top CEL Postal2	39	1.41%
+User Drawn Polygon	5020	Top CEL Postal2	38	1.38%
+User Drawn Polygon	5011	Top CDL Postal2	213	7.79%
+User Drawn Polygon	5023	Top CDL Postal2	204	7.46%
+User Drawn Polygon	5014	Top CDL Postal2	203	7.42%
+User Drawn Polygon	5000	Top CDL Postal2	137	5.01%
+User Drawn Polygon	5013	Top CDL Postal2	87	3.18%
+User Drawn Polygon	5022	Top CDL Postal2	80	2.93%
+User Drawn Polygon	5019	Top CDL Postal2	71	2.60%
+User Drawn Polygon	5021	Top CDL Postal2	67	2.45%
+User Drawn Polygon	5016	Top CDL Postal2	64	2.34%
+User Drawn Polygon	5008	Top CDL Postal2	61	2.23%
+User Drawn Polygon	5015	Top CDL Postal2	59	2.16%
+User Drawn Polygon	5018	Top CDL Postal2	49	1.79%
+User Drawn Polygon	5012	Top CDL Postal2	46	1.68%
+User Drawn Polygon	5025	Top CDL Postal2	46	1.68%
+User Drawn Polygon	5009	Top CDL Postal2	44	1.61%
+User Drawn Polygon	5017	Top CDL Postal2	44	1.61%
+User Drawn Polygon	5007	Top CDL Postal2	42	1.54%
+User Drawn Polygon	5108	Top CDL Postal2	38	1.39%
+User Drawn Polygon	5031	Top CDL Postal2	37	1.35%
+User Drawn Polygon	5024	Top CDL Postal2	31	1.13%
+User Drawn Polygon	46617	Top CDL Postal1	1	0.04%
+User Drawn Polygon	South Australia	Top CEL Province	2679	96.96%
+User Drawn Polygon	Victoria	Top CEL Province	29	1.05%
+User Drawn Polygon	Queensland	Top CEL Province	14	0.51%
+User Drawn Polygon	New South Wales	Top CEL Province	12	0.43%
+User Drawn Polygon	Western Australia	Top CEL Province	9	0.33%
+User Drawn Polygon	Australian Capital Territory	Top CEL Province	6	0.22%
+User Drawn Polygon	Northern Territory	Top CEL Province	2	0.07%
+User Drawn Polygon	Auckland Region	Top CEL Province	1	0.04%
+User Drawn Polygon	Dubai Sector IX	Top CEL Province	1	0.04%
+User Drawn Polygon	South Australia	Top CDL Province	2647	96.78%
+User Drawn Polygon	Victoria	Top CDL Province	29	1.06%
+User Drawn Polygon	Queensland	Top CDL Province	15	0.55%
+User Drawn Polygon	New South Wales	Top CDL Province	13	0.48%
+User Drawn Polygon	Western Australia	Top CDL Province	9	0.33%
+User Drawn Polygon	Australian Capital Territory	Top CDL Province	5	0.18%
+User Drawn Polygon	Northern Territory	Top CDL Province	4	0.15%
+User Drawn Polygon	Auckland Region	Top CDL Province	1	0.04%
+User Drawn Polygon	IN	Top CDL Province	1	0.04%
+User Drawn Polygon	Woodville - Cheltenham	Top CEL Admin	208	7.53%
+User Drawn Polygon	Seaton - Grange	Top CEL Admin	187	6.77%
+User Drawn Polygon	West Lakes	Top CEL Admin	176	6.37%
+User Drawn Polygon	Beverley	Top CEL Admin	152	5.50%
+User Drawn Polygon	Largs Bay - Semaphore	Top CEL Admin	139	5.03%
+User Drawn Polygon	North Haven	Top CEL Admin	135	4.89%
+User Drawn Polygon	Flinders Park	Top CEL Admin	124	4.49%
+User Drawn Polygon	Royal Park - Hendon - Albert Park	Top CEL Admin	120	4.34%
+User Drawn Polygon	Port Adelaide	Top CEL Admin	109	3.94%
+User Drawn Polygon	Hindmarsh - Brompton	Top CEL Admin	103	3.73%
+User Drawn Polygon	The Parks	Top CEL Admin	77	2.79%
+User Drawn Polygon	Lockleys	Top CEL Admin	43	1.56%
+User Drawn Polygon	Henley Beach	Top CEL Admin	41	1.48%
+User Drawn Polygon	Plympton	Top CEL Admin	34	1.23%
+User Drawn Polygon	Enfield - Blair Athol	Top CEL Admin	33	1.19%
+User Drawn Polygon	Richmond (SA)	Top CEL Admin	30	1.09%
+User Drawn Polygon	Northgate - Oakden - Gilles Plains	Top CEL Admin	27	0.98%
+User Drawn Polygon	Rostrevor - Magill	Top CEL Admin	25	0.90%
+User Drawn Polygon	Windsor Gardens	Top CEL Admin	24	0.87%
+User Drawn Polygon	Paralowie	Top CEL Admin	22	0.80%
+User Drawn Polygon	Woodville - Cheltenham	Top CDL Admin	170	6.22%
+User Drawn Polygon	Seaton - Grange	Top CDL Admin	157	5.74%
+User Drawn Polygon	Beverley	Top CDL Admin	147	5.37%
+User Drawn Polygon	West Lakes	Top CDL Admin	143	5.23%
+User Drawn Polygon	Adelaide	Top CDL Admin	137	5.01%
+User Drawn Polygon	Royal Park - Hendon - Albert Park	Top CDL Admin	124	4.53%
+User Drawn Polygon	Flinders Park	Top CDL Admin	123	4.50%
+User Drawn Polygon	North Haven	Top CDL Admin	119	4.35%
+User Drawn Polygon	Port Adelaide	Top CDL Admin	114	4.17%
+User Drawn Polygon	Largs Bay - Semaphore	Top CDL Admin	104	3.80%
+User Drawn Polygon	The Parks	Top CDL Admin	104	3.80%
+User Drawn Polygon	Hindmarsh - Brompton	Top CDL Admin	92	3.36%
+User Drawn Polygon	Richmond (SA)	Top CDL Admin	55	2.01%
+User Drawn Polygon	Henley Beach	Top CDL Admin	47	1.72%
+User Drawn Polygon	Enfield - Blair Athol	Top CDL Admin	45	1.65%
+User Drawn Polygon	Plympton	Top CDL Admin	38	1.39%
+User Drawn Polygon	Lockleys	Top CDL Admin	31	1.13%
+User Drawn Polygon	Goodwood - Millswood	Top CDL Admin	27	0.99%
+User Drawn Polygon	Unley - Parkside	Top CDL Admin	27	0.99%
+User Drawn Polygon	Windsor Gardens	Top CDL Admin	24	0.88%
+User Drawn Polygon	Charles Sturt C	Top CEL Municipality	1124	40.68%
+User Drawn Polygon	Port Adelaide Enfield C	Top CEL Municipality	538	19.47%
+User Drawn Polygon	Salisbury C	Top CEL Municipality	136	4.92%
+User Drawn Polygon	West Torrens C	Top CEL Municipality	122	4.42%
+User Drawn Polygon	Onkaparinga C	Top CEL Municipality	82	2.97%
+User Drawn Polygon	Playford C	Top CEL Municipality	77	2.79%
+User Drawn Polygon	Marion C	Top CEL Municipality	73	2.64%
+User Drawn Polygon	Tea Tree Gully C	Top CEL Municipality	71	2.57%
+User Drawn Polygon	Mitcham C	Top CEL Municipality	50	1.81%
+User Drawn Polygon	Campbelltown C SA	Top CEL Municipality	47	1.70%
+User Drawn Polygon	Unley C	Top CEL Municipality	41	1.48%
+User Drawn Polygon	Norwood Payneham St Peters C	Top CEL Municipality	35	1.27%
+User Drawn Polygon	Burnside C	Top CEL Municipality	32	1.16%
+User Drawn Polygon	Holdfast Bay C	Top CEL Municipality	27	0.98%
+User Drawn Polygon	Mount Barker DC	Top CEL Municipality	27	0.98%
+User Drawn Polygon	Adelaide C	Top CEL Municipality	24	0.87%
+User Drawn Polygon	Prospect C	Top CEL Municipality	23	0.83%
+User Drawn Polygon	Gawler T	Top CEL Municipality	16	0.58%
+User Drawn Polygon	Adelaide Hills DC	Top CEL Municipality	14	0.51%
+User Drawn Polygon	Light RegC	Top CEL Municipality	14	0.51%
+User Drawn Polygon	Charles Sturt C	Top CDL Municipality	1017	37.18%
+User Drawn Polygon	Port Adelaide Enfield C	Top CDL Municipality	530	19.38%
+User Drawn Polygon	Adelaide C	Top CDL Municipality	148	5.41%
+User Drawn Polygon	West Torrens C	Top CDL Municipality	139	5.08%
+User Drawn Polygon	Salisbury C	Top CDL Municipality	128	4.68%
+User Drawn Polygon	Onkaparinga C	Top CDL Municipality	72	2.63%
+User Drawn Polygon	Marion C	Top CDL Municipality	71	2.60%
+User Drawn Polygon	Playford C	Top CDL Municipality	59	2.16%
+User Drawn Polygon	Tea Tree Gully C	Top CDL Municipality	55	2.01%
+User Drawn Polygon	Unley C	Top CDL Municipality	54	1.97%
+User Drawn Polygon	Norwood Payneham St Peters C	Top CDL Municipality	46	1.68%
+User Drawn Polygon	Mitcham C	Top CDL Municipality	42	1.54%
+User Drawn Polygon	Burnside C	Top CDL Municipality	37	1.35%
+User Drawn Polygon	Campbelltown C SA	Top CDL Municipality	36	1.32%
+User Drawn Polygon	Holdfast Bay C	Top CDL Municipality	32	1.17%
+User Drawn Polygon	Mount Barker DC	Top CDL Municipality	25	0.91%
+User Drawn Polygon	Prospect C	Top CDL Municipality	20	0.73%
+User Drawn Polygon	Adelaide Hills DC	Top CDL Municipality	13	0.48%
+User Drawn Polygon	Mallala DC	Top CDL Municipality	12	0.44%
+User Drawn Polygon	Light RegC	Top CDL Municipality	11	0.40%
+User Drawn Polygon	0808200	Top CEL Micro	1	0.04%
+User Drawn Polygon	0830490000033	Top CEL Micro	1	0.04%
+User Drawn Polygon	101511	Top CEL Micro	1	0.04%
+User Drawn Polygon	140007	Top CEL Micro	1	0.04%
+User Drawn Polygon	63000030041	Top CEL Micro	1	0.04%
+User Drawn Polygon	66000030001	Top CEL Micro	1	0.04%
+User Drawn Polygon	E11	Top CEL Micro	1	0.04%
+User Drawn Polygon	0644400	Top CDL Micro	1	0.04%
+User Drawn Polygon	101320	Top CDL Micro	1	0.04%
+User Drawn Polygon	140007	Top CDL Micro	1	0.04%
+User Drawn Polygon	65000030084	Top CDL Micro	1	0.04%
+User Drawn Polygon	66000030001	Top CDL Micro	1	0.04%
+User Drawn Polygon	K02	Top CDL Micro	1	0.04%
+User Drawn Polygon	40401109739	Top CEL Census Block Group	38	1.38%
+User Drawn Polygon	40401109013	Top CEL Census Block Group	20	0.72%
+User Drawn Polygon	40401109010	Top CEL Census Block Group	17	0.62%
+User Drawn Polygon	40401109403	Top CEL Census Block Group	17	0.62%
+User Drawn Polygon	40401109412	Top CEL Census Block Group	17	0.62%
+User Drawn Polygon	40401109713	Top CEL Census Block Group	16	0.58%
+User Drawn Polygon	40402110027	Top CEL Census Block Group	16	0.58%
+User Drawn Polygon	40401109008	Top CEL Census Block Group	15	0.54%
+User Drawn Polygon	40401109619	Top CEL Census Block Group	15	0.54%
+User Drawn Polygon	40401109624	Top CEL Census Block Group	14	0.51%
+User Drawn Polygon	40401109126	Top CEL Census Block Group	13	0.47%
+User Drawn Polygon	40401109408	Top CEL Census Block Group	13	0.47%
+User Drawn Polygon	40401109511	Top CEL Census Block Group	13	0.47%
+User Drawn Polygon	40401109007	Top CEL Census Block Group	12	0.43%
+User Drawn Polygon	40401109014	Top CEL Census Block Group	12	0.43%
+User Drawn Polygon	40401109119	Top CEL Census Block Group	12	0.43%
+User Drawn Polygon	40401109404	Top CEL Census Block Group	12	0.43%
+User Drawn Polygon	40401109621	Top CEL Census Block Group	12	0.43%
+User Drawn Polygon	40401109129	Top CEL Census Block Group	11	0.40%
+User Drawn Polygon	40401109405	Top CEL Census Block Group	11	0.40%
+User Drawn Polygon	40101100141	Top CDL Census Block Group	34	1.24%
+User Drawn Polygon	40401109739	Top CDL Census Block Group	34	1.24%
+User Drawn Polygon	40101100147	Top CDL Census Block Group	21	0.77%
+User Drawn Polygon	40401109008	Top CDL Census Block Group	19	0.69%
+User Drawn Polygon	40401109412	Top CDL Census Block Group	19	0.69%
+User Drawn Polygon	40401109007	Top CDL Census Block Group	16	0.59%
+User Drawn Polygon	40401109010	Top CDL Census Block Group	13	0.48%
+User Drawn Polygon	40401109624	Top CDL Census Block Group	13	0.48%
+User Drawn Polygon	40401109013	Top CDL Census Block Group	12	0.44%
+User Drawn Polygon	40401109126	Top CDL Census Block Group	12	0.44%
+User Drawn Polygon	40401109403	Top CDL Census Block Group	12	0.44%
+User Drawn Polygon	40401109408	Top CDL Census Block Group	12	0.44%
+User Drawn Polygon	40401109411	Top CDL Census Block Group	12	0.44%
+User Drawn Polygon	40401109511	Top CDL Census Block Group	12	0.44%
+User Drawn Polygon	40402110027	Top CDL Census Block Group	12	0.44%
+User Drawn Polygon	40401109014	Top CDL Census Block Group	11	0.40%
+User Drawn Polygon	40401109409	Top CDL Census Block Group	11	0.40%
+User Drawn Polygon	40401109410	Top CDL Census Block Group	11	0.40%
+User Drawn Polygon	40401109512	Top CDL Census Block Group	11	0.40%
+User Drawn Polygon	40401109605	Top CDL Census Block Group	11	0.40%
+User Drawn Polygon	AUS	Top CEL Country	2751	99.57%
+User Drawn Polygon	IND	Top CEL Country	2	0.07%
+User Drawn Polygon	TWN	Top CEL Country	2	0.07%
+User Drawn Polygon	ARE	Top CEL Country	1	0.04%
+User Drawn Polygon	HKG	Top CEL Country	1	0.04%
+User Drawn Polygon	ITA	Top CEL Country	1	0.04%
+User Drawn Polygon	KEN	Top CEL Country	1	0.04%
+User Drawn Polygon	MYS	Top CEL Country	1	0.04%
+User Drawn Polygon	NZL	Top CEL Country	1	0.04%
+User Drawn Polygon	SGP	Top CEL Country	1	0.04%
+User Drawn Polygon	UKR	Top CEL Country	1	0.04%
+User Drawn Polygon	AUS	Top CDL Country	2723	99.56%
+User Drawn Polygon	IND	Top CDL Country	3	0.11%
+User Drawn Polygon	TWN	Top CDL Country	2	0.07%
+User Drawn Polygon	HKG	Top CDL Country	1	0.04%
+User Drawn Polygon	MYS	Top CDL Country	1	0.04%
+User Drawn Polygon	NZL	Top CDL Country	1	0.04%
+User Drawn Polygon	SGP	Top CDL Country	1	0.04%
+User Drawn Polygon	UKR	Top CDL Country	1	0.04%
+User Drawn Polygon	USA	Top CDL Country	1	0.04%

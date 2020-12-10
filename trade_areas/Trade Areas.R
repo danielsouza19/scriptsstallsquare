@@ -19,7 +19,7 @@ register_google("AIzaSyBy9_aJq6KHrcBPVNoIT-aNWf4KiCLy4vc")
     pin <-  read_tsv(pin_path)
 
     home_path <- file.choose()
-    home <- read_tsv(home_path) %>% rename(`Hashed Device ID` = 1) %>%  group_by(`Hashed Device ID`) %>%  dplyr::summarise(home_lat = mean(`Common Evening Lat`), home_long = mean(`Common Evening Long`))
+    home <- read_tsv(home_path) %>% rename(`Hashed Device ID` = 1) %>%  group_by(`Hashed Device ID`) %>%  dplyr::summarise(home_lat = mean(`Common Daytime Lat`), home_long = mean(`Common Daytime Long`))
                 
     
     
@@ -45,11 +45,11 @@ register_google("AIzaSyBy9_aJq6KHrcBPVNoIT-aNWf4KiCLy4vc")
     theme_set(theme_bw(16))
     map <- get_googlemap(center = c(lon = 138.6002,lat = -34.94303), markers = data.frame(c(138.6002),c(-34.94303)), scale = 1, zoom = 12)
     
-    ggmap(map, extent = 'device') +  stat_bin2d(
-      aes(x = home_long, y = home_lat, colour = cluster, fill = cluster),
-      size = .5, bins = 60, alpha = 1/2,
-     data = home
-    )
+    ggmap(map, extent = 'device') #+  stat_bin2d(
+#      aes(x = home_long, y = home_lat, colour = cluster, fill = cluster),
+#      size = .5, bins = 60, alpha = 1/2,
+#     data = home
+#    )
     
 
 
